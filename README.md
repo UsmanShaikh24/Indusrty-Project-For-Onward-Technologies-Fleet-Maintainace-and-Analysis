@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![ML](https://img.shields.io/badge/ML-XGBoost%20%2B%20Random%20Forest-green.svg)](https://xgboost.ai/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -341,12 +342,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **👥 Our Development Team**
 
-**DriveSure** was built by a talented team of developers and professionals:
+**DriveSure** was built by a talented team of **interns** at Onward Technologies:
 
-- **👨‍💻 Usman Shaikh** — Lead Developer & Project Architect
-- **🧑‍💼 Aditya Parade** — Machine Learning Engineer
-- **🧑‍💼 Sarth Mane** — Data Scientist & Analytics Specialist
-- **👩‍💼 Jiya Sharma** — UI/UX Designer & Frontend Developer
+- **👨‍💻 Usman Shaikh** — Lead Developer & Project Architect (Intern)
+- **🧑‍💼 Aditya Parade** — Machine Learning Engineer (Intern)
+- **🧑‍💼 Sarth Mane** — Data Scientist & Analytics Specialist (Intern)
+- **👩‍💼 Jiya Sharma** — UI/UX Designer & Frontend Developer (Intern)
+
+*This project demonstrates the exceptional capabilities and innovative thinking of our intern program at Onward Technologies.*
 
 ### **Contact Information**
 - **Project Lead**: Usman Shaikh
