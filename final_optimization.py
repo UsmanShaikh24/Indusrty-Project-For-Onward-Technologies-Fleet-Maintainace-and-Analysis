@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Final Optimization Script
-Fine-tune XGBoost to achieve 90% accuracy targe
+Fine-tune XGBoost to achieve 90% accuracy target
 """
 
 import pandas as pd
